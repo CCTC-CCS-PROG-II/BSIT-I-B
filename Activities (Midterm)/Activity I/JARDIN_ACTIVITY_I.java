@@ -1,5 +1,5 @@
 import  java.util.Scanner;
-public class JARDDIN_ACTIVITY_1 {
+public class JARDIN_ACTIVITY_1 {
 	public static void main(String[] args) {
 	Scanner sc = new Scanner(System.in);
 
