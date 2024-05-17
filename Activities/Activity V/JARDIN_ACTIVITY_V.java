@@ -3,9 +3,11 @@ import java.util.Scanner;
     public class JARDIN_ACTIVITY_V {
         public static void main(String[]args){
             Scanner sc = new Scanner(System.in);
-
+            
+             System.out.print("Enter your age : ");
             int age = sc.nextInt();
 
+           
                 if(age >= 0 && age <= 11){
                     System.out.println("Child");
                 }
